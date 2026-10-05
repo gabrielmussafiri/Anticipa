@@ -1,0 +1,11 @@
+venv/
+data/raw/
+data/processed/
+data/external/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+*.db
+chroma_db/
